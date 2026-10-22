@@ -1,4 +1,4 @@
-# LyricDrive
+# LyricDrive prueba
 
 Real-time synced (karaoke) lyrics on the Android Auto display for whatever is playing in another
 app — Spotify, YouTube Music, Metrolist, Deezer, Tidal, local players. LyricDrive never plays
